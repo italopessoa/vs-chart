@@ -1,0 +1,26 @@
+{
+  "name": "vs-chart",
+  "version": "1.0.0",
+  "description": "Viking do Sertao podcast listeners chart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/italopessoa/vs-chart.git"
+  },
+  "keywords": [
+    "chart"
+  ],
+  "author": "Italo Pessoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/italopessoa/vs-chart/issues"
+  },
+  "homepage": "https://github.com/italopessoa/vs-chart#readme",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "neat-csv": "^5.2.0"
+  }
+}
